@@ -1,0 +1,7 @@
+pytrends
+pandas
+numpy
+gitpython
+schedule
+feedparser
+requests
